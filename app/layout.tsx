@@ -30,7 +30,7 @@ const RootLayout = async ({ children }: { children: React.ReactNode }) => {
 
             <footer className="py-5 border-t">
               <div className="text-center text-sm text-gray-500">
-                The best ever blog apps
+                The best ever Blog Website
               </div>
             </footer>
           </div>
